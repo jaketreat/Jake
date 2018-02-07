@@ -1,9 +1,10 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: url(https://farm5.staticflickr.com/4619/25211144367_80caa32a9d_z.jpg);
+    /*background-image: url(https://farm5.staticflickr.com/4619/25211144367_80caa32a9d_z.jpg);
     background-repeat: no-repeat;
-    background-size: 180%;
+    background-size: 180%;*/
+    background-color: #E2E2E2;
     margin: 0;
     color: white;
     position: relative;
