@@ -9,6 +9,9 @@ body {
     color: white;
     position: relative;
 }
+.lottie {
+    width:400px;
+}
 h1 {
     text-align: center;
     padding: 20px;
@@ -68,19 +71,19 @@ p {
 .bio {
     background-color: #BFB493;
     padding: 3px;
-    margin-bottom 5%;
+    margin-bottom: 5%;
     margin-left: 5%;
     width: 42.5%;
-    height: 20%
+    height: 20%;
     opacity: 0.9;
 }
 .jobs {
     background-color: #DEC573;
     padding: 1%;
-    margin-bottom 5%;
+    margin-bottom: 5%;
     margin-left: 52.5%;
     width: 42.5%;
-    height: 20%
+    height: 20%;
     opacity: 0.9;
 }
 .row:after {
