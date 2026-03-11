@@ -10,7 +10,12 @@ body {
     position: relative;
 }
 .lottie {
-    width:400px;
+    width: 400px;
+    height: 400px;
+}
+.lottie svg {
+    width: 100%;
+    height: 100%;
 }
 h1 {
     text-align: center;
